@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^vless$ https://india.satishcdn.com [R=302,L]
