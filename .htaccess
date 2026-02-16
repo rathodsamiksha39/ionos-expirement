@@ -1,2 +1,3 @@
 RewriteEngine On
-RewriteRule ^vless$ https://india.satishcdn.com [R=302,L]
+
+RewriteRule ^vless$ https://india.satishcdn.com/ [P,L]
